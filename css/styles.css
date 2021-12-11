@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    padding: auto;
+}
+ 
+/* cambiar el color de fondo a la barra */
+nav.navbar {
+    background-color: #a7414a;
+}
+
+.nav-link{
+  color: transparent;
+  -webkit-text-stroke: 2px black;
+}
+
+.caja{
+  height: 600px;
+  opacity: 0.5;
+	background-color: #282726;
+}
+.carousel-inner{
+  height: 600px;
+}
+.caja1{
+  height: 500px;
+  background-color: #a7414a;
+}
+.caja2{
+  height: 340px;
+  background-color: #a7414a;
+}
+.caja3{
+  height: 380px;
+  background-color: #a7414a;
+}
+.animate__backInRight{
+  animation-delay: 1s;
+}
+.trabajos{
+  margin: 10px;
+}
+
+footer
+{
+	background: url('images/top.png') no-repeat top center, url('images/separateur.png') repeat-x top;
+  padding-top: 25px;
+}
+.cajafoot{
+  height: 500px;
+  margin: 10px;
+	background-color: #a7414a;
+}
+.pies{
+  background-color: #6a8a82;
+  text-align: center;
+  color: #282726;
+}
+/*.amarillo{
+  display: flex;
+  height: 10em;
+  background-color: yellow;
+}
+.azul{
+  display: flex;
+  height: 10em;
+  background-color: blue;
+}
+.rojo{
+  display: flex;
+  height: 10em;
+  background-color: red;
+}
+.verde{
+  display: flex;
+  height: 10em;
+  background-color: green;
+}
+.morado{
+  display: flex;
+  height: 10em;
+  background-color: purple;
+}
+.cafe{
+  display: flex;
+  height: 10em;
+  background-color: chocolate;
+}
+.violeta{
+  display: flex;
+  height: 10em;
+  background-color: violet;
+}
+.naranja{
+  display: flex;
+  height: 10em;
+  background-color: orange;
+}
+.rosado{
+  display: flex;
+  height: 10em;
+  background-color: pink;
+}
+.cyan{
+  display: flex;
+  height: 10em;
+  background-color: darkcyan;
+}
+.gris{
+  display: flex;
+  height: 10em;
+  background-color: gray;
+}/*
